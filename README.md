@@ -2,12 +2,13 @@
 
 ## 📚 Project Overview
 
-# 🎯 Purpose:
+🎯 Purpose:
 
 The project aims to build a simple and efficient weather information system where users can search for real-time weather updates of any city.
 
 ❓Problem Statement:
 People often need quick access to reliable weather forecasts. Many existing systems are either too complex or not tailored to educational use. This system solves that by providing a user-friendly console-based app.
+
 💡 Why OOP?
 Using OOP helps to structure the project into reusable, manageable, and scalable components — which is ideal for future upgrades and easier debugging.
 
