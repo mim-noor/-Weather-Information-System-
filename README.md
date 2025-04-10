@@ -6,21 +6,21 @@
 
 The project aims to build a simple and efficient weather information system where users can search for real-time weather updates of any city.
 
-# ❓Problem Statement:
+❓Problem Statement:
 People often need quick access to reliable weather forecasts. Many existing systems are either too complex or not tailored to educational use. This system solves that by providing a user-friendly console-based app.
-# 💡 Why OOP?
+💡 Why OOP?
 Using OOP helps to structure the project into reusable, manageable, and scalable components — which is ideal for future upgrades and easier debugging.
 
 
 ## 🎯Project Goals & Key Functionalities
 
-# 🥅 Main Goals:
+🥅 Main Goals:
 
 Build a clean, console-based weather app.
 Apply core OOP principles.
 Learn API integration using Java.
 
-# 🔑 Key Functionalities:
+🔑 Key Functionalities:
 
 🌍 Search for weather by city.
 
@@ -44,28 +44,27 @@ Learn API integration using Java.
 
 ## 🧑‍💻 OOP Concepts Used:
 
-# 🔒 Encapsulation:
+🔒 Encapsulation:
 All weather data is stored in private variables in the WeatherData class, with controlled access.
 
-# 🧬 Inheritance:
+🧬 Inheritance:
 Can be applied in future versions for expanding to forecast/weather alert subclasses.
 
-# 🔄 Polymorphism:
+🔄 Polymorphism:
 (Can be added) Overloaded methods for displaying full vs. brief weather reports.
 
 🕵️‍♂️ Abstraction:
-
 The getWeather() method hides the internal API and parsing details from the user.
 
 
----
-
-🗓️ Project Timeline & Phases:
+## 🗓️ Project Timeline & Phases:
 
 
----
 
-🎯 Expected Outcome:
+
+
+
+## 🎯 Expected Outcome:
 
 ✅ What will it achieve:
 
@@ -78,21 +77,17 @@ Help users get real-time data. It's also an educational project demonstrating pr
 
 ---
 
-📜 Summary / Impact:
+## 📜 Summary / Impact:
 
 This project combines OOP concepts with real-world data. It encourages clean coding practice, real-time API use, and builds problem-solving skills. It’s a great steppingstone for bigger Java applications like mobile or GUI-based systems.
 
 
 ---
 
-📚 References:
+## 📚 References:
 
 1. OpenWeatherMap API
-
-
 2. Java Official Docs
-
-
 3. Java Standard Library Documentation
 
 
