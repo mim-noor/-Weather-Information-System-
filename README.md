@@ -66,11 +66,12 @@ The getWeather() method hides the internal API and parsing details from the user
 
 ## 🗓️ Project Timeline & Phases:
 
-        Phase    ------------------------ Duration(weeks)	        
-   Research & Planning -------------------- 2 weeks	              
-    Core Development ------------------------3 weeks	         
-        Testing ---------------------------- 1 week          	
-     Documentation------------------------- 1 week       	
+
+        Phase   ------------------------     Duration(weeks)	        
+    Research & Planning ----------------------> 2 weeks	              
+    Core Development -------------------------->3 weeks	         
+        Testing ------------------------------->1 week                                                                                                                                                	
+     Documentation    -------------------------> 1 week       	
 	
            
 
