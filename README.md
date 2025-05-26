@@ -93,11 +93,17 @@ This project combines OOP concepts with real-world data. It encourages clean cod
 
 ## 📚 References:
 
-1. OpenWeatherMap API
+1. WeatherAPI. (2023). *Developer Documentation*. 
+Current weather and forecast - OpenWeatherMap
+2. GitHub Repo**: [https://github.com/yourusername/weather-system](https://github.com/yourusername/weather-system)  
+3. How to make a Weather App:
+ https://youtu.be/MIYQR-Ybrn4?si=vtT1UdNwGAokU72A
+4. How to draw UML Class Diagram:
+https://youtu.be/ao1ESgIy2Ws?si=AxPbrts16FC1o_uq
+5. How to perform API calls in java:
+https://youtu.be/WS_H44tvZMI?si=AgWN6WIpYQKMx9Ki
+6. https://chatgpt.com/share/6829dedf-e708-8010-9df6-7c66b407daf6
 
-2. Java Official Docs
-
-3. Java Standard Library Documentation
 
 
 
