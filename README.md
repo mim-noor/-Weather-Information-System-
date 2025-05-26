@@ -66,7 +66,12 @@ The getWeather() method hides the internal API and parsing details from the user
 
 ## 🗓️ Project Timeline & Phases:
 
-
+         #Phase	                     #Tasks	                     #Duration(weeks)	         #Remarks
+   Research & Planning       API selection, UML design	            2 weeks	              WeatherAPI
+    Core Development	      Java classes, API integration	          3 weeks	         OOP principles applied
+        Testing	          Unit tests, edge-case validation	        1 week          	90% accuracy achieved
+     Documentation	         Report, Excel figures, PPT 	          1 week       	LaTeX used for professional docs
+	
 
 
 
